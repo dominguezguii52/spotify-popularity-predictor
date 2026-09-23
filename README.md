@@ -18,4 +18,7 @@ Many believe that creating a "hit" song is just a matter of hitting the right au
 ## 🚀 How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/dominguezguii52/spotify-popularity-predictor.git](https://github.com/dominguezguii52/spotify-popularity-predictor.git)
+   git clone [https://github.com/dominguezguii52/spotify-popularity-predictor.git](https://github.com/dominguezguii52/spotify-popularity-predictor.git
+  ## 📊 Interactive Tableau Dashboard
+You can explore the interactive dashboard online:
+👉 [View Spotify Popularity Dashboard on Tableau Public] https://public.tableau.com/views/SpotifyTracksAnalyzingPopularityAudioMetrics/Dashboard?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
